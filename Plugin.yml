@@ -1,0 +1,11 @@
+name: HowToPlayMinecraftPluginForBeginners/MadebyTentCoverage
+version: 1.0
+main: me.TentCoverage.Tutorial1.Main
+description: It's just a test!
+
+
+
+commands: 
+    tutorial:
+        usage: /findme
+        
